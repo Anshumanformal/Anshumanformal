@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=NodeJS-and-JavaScript&theme=radical)](https://github.com/Anshumanformal/NodeJS-and-JavaScript)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=CPP&theme=radical)](https://github.com/Anshumanformal/CPP)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=CPP&theme=radical)](https://github.com/Anshumanformal/CPP/tree/master)
 <br >
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=MongoDB-notes&theme=radical)](https://github.com/Anshumanformal/MongoDB-notes)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=SQL&theme=radical)](https://github.com/Anshumanformal/SQL)
