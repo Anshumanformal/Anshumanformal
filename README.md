@@ -1,11 +1,12 @@
 ### Hi there 👋
- - 🔭 I’m currently working on MERN stack
- - 🌱 I’m currently learning React
- - 📫 Do my problem solving in c++
+ - 🔭 I’m currently working on MERN stack.
+ - 🌱 I’m currently learning ReactJS.
+ - 📫 Do my problem solving in c++.
  
-![My github](https://github-readme-stats.vercel.app/api?username=AkashBawa&show_icons=true&count_private=true&theme=jolly&include_all_commits=true&hide_title=true)
+[![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshumanformal)](https://github.com/Anshumanformal/github-readme-stats)
+
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashBawa&layout=compact&theme=omni&card_width=445)](https://github.com/AkashBawa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumanformal&layout=compact&theme=omni&card_width=445)](https://github.com/Anshumanformal)
 <br >
 
 <br />
@@ -24,10 +25,12 @@ Here are some ideas to get you started:
 - ⚡ Interested in : I would like to contribute to any NGO or any organization working on environmental sustainability, scarce resource management and any other such initiatives 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkashBawa&repo=WaterWare&theme=midnight-purple)](https://github.com/AkashBawa/quiz-app-client)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=WaterWare&theme=midnight-purple)](https://github.com/Anshumanformal/NodeJS-and-JavaScript)
 <br >
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkashBawa&repo=Clickhit&theme=midnight-purple)](https://github.com/AkashBawa/Clickhit)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=Clickhit&theme=midnight-purple)](https://github.com/Anshumanformal/CPP)
 <br >
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AkashBawa&repo=StudyHard&theme=midnight-purple)](https://github.com/ShivamPrajapati-dev/StudyHard)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=StudyHard&theme=midnight-purple)](https://github.com/Anshumanformal/MongoDB-notes)
+<br >
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=StudyHard&theme=midnight-purple)](https://github.com/Anshumanformal/SQL)
+<br >
 -->
