@@ -3,14 +3,9 @@
  - 🌱 I’m currently learning ReactJS.
  - 📫 Do my problem solving in c++.
  
-[![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshumanformal)](https://github.com/Anshumanformal/github-readme-stats)
-
+[![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshumanformal&show_icons=true&count_private=true&theme=jolly&include_all_commits=true&hide_title=true)]
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Anshumanformal&layout=compact&theme=omni&card_width=445)](https://github.com/Anshumanformal/github-readme-stats)
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumanformal&layout=compact&theme=omni&card_width=445)](https://github.com/Anshumanformal)
 <br >
 
 <br />
@@ -29,12 +24,12 @@ Here are some ideas to get you started:
 - ⚡ Interested in : I would like to contribute to any NGO or any organization working on environmental sustainability, scarce resource management and any other such initiatives 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=WaterWare&theme=midnight-purple)](https://github.com/Anshumanformal/NodeJS-and-JavaScript)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=NodeJS-and-JavaScript&theme=midnight-purple)](https://github.com/Anshumanformal/NodeJS-and-JavaScript)
 <br >
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=Clickhit&theme=midnight-purple)](https://github.com/Anshumanformal/CPP)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=CPP&theme=midnight-purple)](https://github.com/Anshumanformal/CPP)
 <br >
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=StudyHard&theme=midnight-purple)](https://github.com/Anshumanformal/MongoDB-notes)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=MongoDB-notes&theme=midnight-purple)](https://github.com/Anshumanformal/MongoDB-notes)
 <br >
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=StudyHard&theme=midnight-purple)](https://github.com/Anshumanformal/SQL)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=SQL&theme=midnight-purple)](https://github.com/Anshumanformal/SQL)
 <br >
 -->
