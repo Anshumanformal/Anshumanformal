@@ -6,7 +6,11 @@
 [![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshumanformal)](https://github.com/Anshumanformal/github-readme-stats)
 
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumanformal&layout=compact&theme=omni&card_width=445)](https://github.com/Anshumanformal)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumanformal&layout=compact&theme=omni&card_width=445)](https://github.com/Anshumanformal/github-readme-stats)
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <br >
 
 <br />
