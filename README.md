@@ -8,7 +8,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumanformal&layout=compact&theme=omni&card_width=445)](https://github.com/Anshumanformal)
 <br >
 
-<br />
 <!--
 **Anshumanformal/Anshumanformal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,11 +24,7 @@ Here are some ideas to get you started:
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=NodeJS-and-JavaScript&theme=midnight-purple)](https://github.com/Anshumanformal/NodeJS-and-JavaScript)
-<br >
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=CPP&theme=midnight-purple)](https://github.com/Anshumanformal/CPP)
 <br >
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=MongoDB-notes&theme=midnight-purple)](https://github.com/Anshumanformal/MongoDB-notes)
-<br >
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=SQL&theme=midnight-purple)](https://github.com/Anshumanformal/SQL)
-<br >
--->
