@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ReactJS/any Frontend stack
 <!-- - 💬 Ask me about  -->
 <!-- - 📫 How to reach me: ... -->
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Interested in : I would like to contribute to any NGO or any organization working on environmental sustainability, scarce resource management and any other such initiatives 
 
 
