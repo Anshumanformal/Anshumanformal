@@ -2,7 +2,7 @@
  - 🔭 I’m currently working on MERN stack.
  - 🌱 I’m currently learning ReactJS.
  - 📫 Do my problem solving in c++.
- - ![Gitzilla](https://gitzilla.netlify.app/users/Anshumanformal)
+ - [Gitzilla](https://gitzilla.netlify.app/users/Anshumanformal)
  
 ![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshumanformal&show_icons=true&count_private=true&theme=jolly&include_all_commits=true&hide_title=true)
 <br />
