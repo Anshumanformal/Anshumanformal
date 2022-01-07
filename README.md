@@ -4,8 +4,7 @@
  - 📫 Do my problem solving in c++.
  - [Gitzilla](https://gitzilla.netlify.app/users/Anshumanformal)
  - [LinkedIn](https://www.linkedin.com/in/anshuman-ranjan-formal)
- - <img src="https://komarev.com/ghpvc/?username=Anshumanformal" alt="Anshuman's GitHub Visitor Count" />
- - [GitHub Visitor Count](https://komarev.com/ghpvc/?username=Anshumanformal)
+ - <img src="https://komarev.com/ghpvc/?username=Anshumanformal&color=green" alt="Anshuman's GitHub Visitor Count" />
  
 ![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshumanformal&show_icons=true&count_private=true&theme=jolly&include_all_commits=true&hide_title=true)
 <br />
