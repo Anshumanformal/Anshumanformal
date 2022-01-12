@@ -1,6 +1,6 @@
 ### Hi there 👋
- - 🔭 I’m currently working on MERN stack.
- - 🌱 I’m currently learning ReactJS.
+ - 🔭 Currently working on MERN stack.
+ - 🌱 Passionate about creating software solutions to real-life scenarios.
  - 📫 Do my problem solving in c++.
  - [Gitzilla](https://gitzilla.netlify.app/users/Anshumanformal)
  - [LinkedIn](https://www.linkedin.com/in/anshuman-ranjan-formal)
