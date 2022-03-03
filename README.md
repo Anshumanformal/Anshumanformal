@@ -6,6 +6,7 @@
  - [LinkedIn](https://www.linkedin.com/in/anshuman-ranjan-formal)
  - [Website](https://anshuman-ranjan-portfolio.netlify.app/)
  - [LinkTree](https://linktr.ee/anshuman_ranjan)
+ - [AboutMe](https://about.me/anshumanranjan)
  - <img src="https://komarev.com/ghpvc/?username=Anshumanformal&color=green" alt="Anshuman's GitHub Visitor Count" />
  
 <!-- ![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshumanformal&show_icons=true&count_private=true&theme=jolly&include_all_commits=true&hide_title=true)
