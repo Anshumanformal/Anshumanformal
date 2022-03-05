@@ -1,5 +1,5 @@
-### Hi there 👋
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+### Hi there 👋
  - 🔭 Currently working on MERN stack.
  - 🌱 Passionate about creating software solutions to real-life scenarios.
  - 📫 Do my problem solving in c++.
