@@ -1,4 +1,4 @@
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ### Hi there!&nbsp;
+ ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">&nbsp;
 
  - 🔭 Currently working on MERN stack.
  - 🌱 Passionate about creating software solutions to real-life scenarios.
