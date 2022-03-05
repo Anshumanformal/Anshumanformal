@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Interested in : I would like to contribute to any NGO or any organization working on environmental sustainability, scarce resource management and any other such initiatives 
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=NodeJS-and-JavaScript&theme=radical)](https://github.com/Anshumanformal/NodeJS-and-JavaScript)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=CPP&theme=radical)](https://github.com/Anshumanformal/CPP/tree/master)
