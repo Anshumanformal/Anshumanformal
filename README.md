@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
  - 🔭 Currently working on MERN stack.
  - 🌱 Passionate about creating software solutions to real-life scenarios.
  - 📫 Do my problem solving in c++.
@@ -27,8 +28,6 @@ Here are some ideas to get you started:
 <!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: He/Him
 - ⚡ Interested in : I would like to contribute to any NGO or any organization working on environmental sustainability, scarce resource management and any other such initiatives 
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=NodeJS-and-JavaScript&theme=radical)](https://github.com/Anshumanformal/NodeJS-and-JavaScript)
