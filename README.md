@@ -1,8 +1,8 @@
- ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">&nbsp;
+ ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">&nbsp;
 
- - 🔭 Currently working on MERN stack.
- - 🌱 Passionate about creating software solutions to real-life scenarios.
- - 📫 Do my problem solving in c++.
+ - 🔭 I am currently working on MERN stack.
+ - 🌱 I am passionate about creating software solutions to real-life scenarios.
+ - 📫 Do my problem solving in c++, Javascript and Python.
  - [Gitzilla](https://gitzilla.netlify.app/users/Anshumanformal)
  - [LinkedIn](https://www.linkedin.com/in/anshuman-ranjan-formal)
  - [Website](https://anshuman-ranjan-portfolio.netlify.app/)
