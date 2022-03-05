@@ -1,8 +1,5 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-<br/>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ### Hi there!&nbsp;
 
-### Hi there 👋
  - 🔭 Currently working on MERN stack.
  - 🌱 Passionate about creating software solutions to real-life scenarios.
  - 📫 Do my problem solving in c++.
