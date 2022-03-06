@@ -47,9 +47,8 @@ Here are some ideas to get you started:
 
 ### Connect with me
 
-<a>
+<a href="https://www.linkedin.com/in/anshuman-ranjan-formal" target="_blank" rel="noopener noreferrer">
  <img title="Linkedin" align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" /> 
- href="https://www.linkedin.com/in/anshuman-ranjan-formal" target="_blank" rel="noopener noreferrer"
 </a> 
 <!-- [<img title="Mail to Anshuman" align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" />](mailto:anshumanformal@gmail.com)
 [<img title="Visit Anshuman's Portfolio" align="left" width="40px" src="https://img.icons8.com/fluency/50/000000/resume-website.png" />](https://anshuman-ranjan-portfolio.netlify.app/)
