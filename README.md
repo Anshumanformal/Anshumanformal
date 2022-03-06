@@ -47,12 +47,13 @@ Here are some ideas to get you started:
 ### Connect with me
 [<img align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />](https://www.linkedin.com/in/anshuman-ranjan-formal)
 [<img align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" />](mailto:anshumanformal@gmail.com)
-[<img align="left" width="40px" src="https://icons8.com/icon/XhDBVc7IBFl9/resume-website" />](https://anshuman-ranjan-portfolio.netlify.app/)
+[<img align="left" width="40px" src="https://img.icons8.com/fluency/50/000000/resume-website.png" />](https://anshuman-ranjan-portfolio.netlify.app/)
 [<img align="left" width="40px" src="https://img.icons8.com/nolan/64/git.png" />](https://gitzilla.netlify.app/users/Anshumanformal)
 [<img align="left" width="40px" src="https://img.icons8.com/color/50/000000/linktree.png" />](https://linktr.ee/anshuman_ranjan)
 [<img align="left" width="40px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-software-developer-digital-nomading-relocation-flaticons-flat-flat-icons.png" />](https://about.me/anshumanranjan)
 
- - <img src="https://komarev.com/ghpvc/?username=Anshumanformal&color=green" alt="Anshuman's GitHub Visitor Count" />
+<br>
+[<img src="https://komarev.com/ghpvc/?username=Anshumanformal&color=green" />](Anshuman's GitHub Visitor Count)
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=NodeJS-and-JavaScript&theme=radical)](https://github.com/Anshumanformal/NodeJS-and-JavaScript)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=CPP&theme=radical)](https://github.com/Anshumanformal/CPP/tree/master)
 <br >
