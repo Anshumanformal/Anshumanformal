@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 [<img align="left" width="40px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-software-developer-digital-nomading-relocation-flaticons-flat-flat-icons.png" />](https://about.me/anshumanranjan)
 
 <br>
-[<img src="https://komarev.com/ghpvc/?username=Anshumanformal&color=green" />](Anshuman's GitHub Visitor Count)
+<img src="https://komarev.com/ghpvc/?username=Anshumanformal&color=green" alt="Anshuman's GitHub Visitor Count"/>
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=NodeJS-and-JavaScript&theme=radical)](https://github.com/Anshumanformal/NodeJS-and-JavaScript)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=CPP&theme=radical)](https://github.com/Anshumanformal/CPP/tree/master)
 <br >
