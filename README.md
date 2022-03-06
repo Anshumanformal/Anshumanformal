@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <code><img title="GraphQL" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 
 ### Connect with me
-[<img title="Linkedin" align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />](https://www.linkedin.com/in/anshuman-ranjan-formal)
+[<img title="Linkedin" align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" target="__blank" />](https://www.linkedin.com/in/anshuman-ranjan-formal)
 [<img title="Mail to Anshuman" align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" />](mailto:anshumanformal@gmail.com)
 [<img title="Visit Anshuman's Portfolio" align="left" width="40px" src="https://img.icons8.com/fluency/50/000000/resume-website.png" />](https://anshuman-ranjan-portfolio.netlify.app/)
 [<img title="Gitzilla: Here, you'll get to see various Github repos" align="left" width="40px" src="https://img.icons8.com/nolan/64/git.png" />](https://gitzilla.netlify.app/users/Anshumanformal)
