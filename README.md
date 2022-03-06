@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: He/Him
 - ⚡ Interested in : I would like to contribute to any NGO or any organization working on environmental sustainability, scarce resource management and any other such initiatives 
+- <img src="https://komarev.com/ghpvc/?username=Anshumanformal&color=green" alt="Anshuman's GitHub Visitor Count"/>
 
 **Languages and Tools:**  
 
@@ -45,15 +46,14 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 
 ### Connect with me
-[<img align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />](https://www.linkedin.com/in/anshuman-ranjan-formal)
+[<img title="Linkedin" align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />](https://www.linkedin.com/in/anshuman-ranjan-formal)
 [<img align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" />](mailto:anshumanformal@gmail.com)
 [<img align="left" width="40px" src="https://img.icons8.com/fluency/50/000000/resume-website.png" />](https://anshuman-ranjan-portfolio.netlify.app/)
 [<img align="left" width="40px" src="https://img.icons8.com/nolan/64/git.png" />](https://gitzilla.netlify.app/users/Anshumanformal)
 [<img align="left" width="40px" src="https://img.icons8.com/color/50/000000/linktree.png" />](https://linktr.ee/anshuman_ranjan)
 [<img align="left" width="40px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-software-developer-digital-nomading-relocation-flaticons-flat-flat-icons.png" />](https://about.me/anshumanranjan)
 
-<br><br><br><br>
-<img src="https://komarev.com/ghpvc/?username=Anshumanformal&color=green" alt="Anshuman's GitHub Visitor Count"/>
+
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=NodeJS-and-JavaScript&theme=radical)](https://github.com/Anshumanformal/NodeJS-and-JavaScript)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=CPP&theme=radical)](https://github.com/Anshumanformal/CPP/tree/master)
 <br >
