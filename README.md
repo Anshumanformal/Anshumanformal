@@ -5,9 +5,9 @@
  - 📫 Do my problem solving in c++, Javascript and Python.
 
 ### Connect with me
- - [<img align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />](https://www.linkedin.com/in/anshuman-ranjan-formal)
- - [<img align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" />](mailto:anshumanformal@gmail.com)
- - [<a href="https://icons8.com/icon/XhDBVc7IBFl9/resume-website"></a>](https://anshuman-ranjan-portfolio.netlify.app/)
+[<img align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />](https://www.linkedin.com/in/anshuman-ranjan-formal)
+[<img align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" />](mailto:anshumanformal@gmail.com)
+[<a href="https://icons8.com/icon/XhDBVc7IBFl9/resume-website"></a>](https://anshuman-ranjan-portfolio.netlify.app/)
  - [Gitzilla](https://gitzilla.netlify.app/users/Anshumanformal)
  - [LinkTree](https://linktr.ee/anshuman_ranjan)
  - [AboutMe](https://about.me/anshumanranjan)
