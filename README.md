@@ -46,12 +46,12 @@ Here are some ideas to get you started:
 <code><img title="GraphQL" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 
 ### Connect with me
-<img title="Linkedin" align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/anshuman-ranjan-formal"/>
-[<img title="Mail to Anshuman" align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" />](mailto:anshumanformal@gmail.com)
+<img title="Linkedin" align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" href="https://www.linkedin.com/in/anshuman-ranjan-formal" target="_blank" rel="noopener noreferrer" />
+<!-- [<img title="Mail to Anshuman" align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" />](mailto:anshumanformal@gmail.com)
 [<img title="Visit Anshuman's Portfolio" align="left" width="40px" src="https://img.icons8.com/fluency/50/000000/resume-website.png" />](https://anshuman-ranjan-portfolio.netlify.app/)
 [<img title="Gitzilla: Here, you'll get to see various Github repos" align="left" width="40px" src="https://img.icons8.com/nolan/64/git.png" />](https://gitzilla.netlify.app/users/Anshumanformal)
 [<img title="LinkTree profile" align="left" width="40px" src="https://img.icons8.com/color/50/000000/linktree.png" />](https://linktr.ee/anshuman_ranjan)
-[<img title="AboutMe profile" align="left" width="40px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-software-developer-digital-nomading-relocation-flaticons-flat-flat-icons.png" />](https://about.me/anshumanranjan)
+[<img title="AboutMe profile" align="left" width="40px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-software-developer-digital-nomading-relocation-flaticons-flat-flat-icons.png" />](https://about.me/anshumanranjan) -->
 
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=NodeJS-and-JavaScript&theme=radical)](https://github.com/Anshumanformal/NodeJS-and-JavaScript)
