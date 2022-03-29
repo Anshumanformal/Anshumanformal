@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!-- - 💬 Ask me about  -->
 <!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: He/Him
-- ⚡ Interested in : I would like to contribute to any NGO or any organization working on environmental sustainability, scarce resource management and any other such initiatives 
+- ⚡ Interested in : I would like to contribute to any NGO or any organization working on environmental sustainability, scarce resource management and any other such initiatives.
 - <img src="https://komarev.com/ghpvc/?username=Anshumanformal&color=green" alt="Anshuman's GitHub Visitor Count"/>
 
 **Languages and Tools:**  
