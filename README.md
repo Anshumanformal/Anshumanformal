@@ -2,7 +2,7 @@
 
  - 🔭 I am currently working on MERN stack.
  - 🌱 I am passionate about creating software solutions to real-life scenarios.
- - 📫 Do my problem solving in c++, Javascript and Python.
+ - 📫 Do my problem solving in C++, Javascript and Python.
  
 <!-- ![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshumanformal&show_icons=true&count_private=true&theme=jolly&include_all_commits=true&hide_title=true)
 <br />
