@@ -8,7 +8,7 @@
  - <img src="https://komarev.com/ghpvc/?username=Anshumanformal&color=green" alt="Anshuman's GitHub Visitor Count"/>
  
 ![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshumanformal&show_icons=true&count_private=true&theme=jolly&include_all_commits=true&hide_title=true)
-<br />
+<!-- <br /> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumanformal&layout=compact&theme=omni&card_width=445)](https://github.com/Anshumanformal)
 <br >
 
