@@ -4,7 +4,7 @@
  - 🌱 I am passionate about creating software solutions to real-life scenarios.
  - 📫 Do my problem solving in C++, Javascript and Python.
  - 😄 Pronouns: He/Him
- - ⚡ Interested in : I would like to contribute to any NGO or any organization working on environmental sustainability, scarce resource management and any other such initiatives.
+<!--  - ⚡ Interested in : I would like to contribute to any NGO or any organization working on environmental sustainability. -->
  - <img src="https://komarev.com/ghpvc/?username=Anshumanformal&color=green" alt="Anshuman's GitHub Visitor Count"/>
  
 ![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshumanformal&show_icons=true&count_private=true&theme=jolly&include_all_commits=true&hide_title=true)
@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 [<img title="AboutMe profile" align="left" width="40px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-software-developer-digital-nomading-relocation-flaticons-flat-flat-icons.png" />](https://about.me/anshumanranjan)
 
 
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=NodeJS-and-JavaScript&theme=radical)](https://github.com/Anshumanformal/NodeJS-and-JavaScript)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=NodeJS-and-JavaScript&theme=radical)](https://github.com/Anshumanformal/NodeJS-and-JavaScript)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=CPP&theme=radical)](https://github.com/Anshumanformal/CPP/tree/master)
 <br >
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=ecommerce-web-app&theme=radical)](https://github.com/Anshumanformal/ecommerce-web-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=NodeJS-and-JavaScript&theme=radical)](https://github.com/Anshumanformal/NodeJS-and-JavaScript/tree/main/NodeJS-and-JavaScript) -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=NodeJS-and-JavaScript&theme=radical)](https://github.com/Anshumanformal/NodeJS-and-JavaScript/tree/main/NodeJS-and-JavaScript)
