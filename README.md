@@ -3,6 +3,9 @@
  - 🔭 I am currently working on MERN stack.
  - 🌱 I am passionate about creating software solutions to real-life scenarios.
  - 📫 Do my problem solving in C++, Javascript and Python.
+ - 😄 Pronouns: He/Him
+ - ⚡ Interested in : I would like to contribute to any NGO or any organization working on environmental sustainability, scarce resource management and any other such initiatives.
+ - <img src="https://komarev.com/ghpvc/?username=Anshumanformal&color=green" alt="Anshuman's GitHub Visitor Count"/>
  
 ![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshumanformal&show_icons=true&count_private=true&theme=jolly&include_all_commits=true&hide_title=true)
 <br />
@@ -20,9 +23,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ReactJS/any Frontend stack
 <!-- - 💬 Ask me about  -->
 <!-- - 📫 How to reach me: ... -->
-- 😄 Pronouns: He/Him
-- ⚡ Interested in : I would like to contribute to any NGO or any organization working on environmental sustainability, scarce resource management and any other such initiatives.
-- <img src="https://komarev.com/ghpvc/?username=Anshumanformal&color=green" alt="Anshuman's GitHub Visitor Count"/>
+
 - [![Anshuman's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anshumanformal&theme=xcode)](https://git.io/Anshumanformal)
 
 **Languages and Tools:**  
