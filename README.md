@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- - 💬 Ask me about  -->
 <!-- - 📫 How to reach me: ... -->
 
-- [![Anshuman's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anshumanformal&theme=xcode)](https://git.io/Anshumanformal)
+[![Anshuman's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anshumanformal&theme=xcode)](https://git.io/Anshumanformal)
 
 **Languages and Tools:**  
 
