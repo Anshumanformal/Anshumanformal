@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Interested in : I would like to contribute to any NGO or any organization working on environmental sustainability, scarce resource management and any other such initiatives.
 - <img src="https://komarev.com/ghpvc/?username=Anshumanformal&color=green" alt="Anshuman's GitHub Visitor Count"/>
+- [![Anshuman's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anshumanformal&theme=xcode)](https://git.io/Anshumanformal)
+- ![Skyline](https://github.com/Anshumanformal/Anshumanformal/blob/master/github-metrics.svg)
 
 **Languages and Tools:**  
 
