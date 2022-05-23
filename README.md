@@ -1,6 +1,9 @@
  ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">&nbsp;
+ ==============================
+ I am currently working as a Backend Engineer.
+ -----------------
 
- - 🔭 I am currently working on MERN stack.
+<!--  - 🔭 I am currently working on MERN stack. -->
  - 🌱 I am passionate about creating software solutions to real-life scenarios.
  - 📫 Do my problem solving in C++, Javascript and Python.
  - 😄 Pronouns: He/Him
