@@ -1,4 +1,4 @@
- # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+ # Hi there 👋
  I am currently working as a Backend Engineer.
  -----------------
 
@@ -6,6 +6,7 @@
  - 🌱 I am passionate about creating software solutions to real-life scenarios.
  - 📫 Do my problem solving in C++, Javascript and Python.
  - 😄 Pronouns: He/Him
+ - ✉️  You can shoot me an email at anshumanformal@gmail.com! I'll try to respond as soon as I can.
 <!--  - ⚡ Interested in : I would like to contribute to any NGO or any organization working on environmental sustainability. -->
  - <img src="https://komarev.com/ghpvc/?username=Anshumanformal&color=green" alt="Anshuman's GitHub Visitor Count"/>
  
