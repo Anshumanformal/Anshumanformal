@@ -58,8 +58,8 @@ Here are some ideas to get you started:
 [<img title="LinkTree profile" align="left" width="40px" src="https://img.icons8.com/color/50/000000/linktree.png" />](https://linktr.ee/anshuman_ranjan)
 [<img title="AboutMe profile" align="left" width="40px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-software-developer-digital-nomading-relocation-flaticons-flat-flat-icons.png" />](https://about.me/anshumanranjan)
 
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/Anshumanformal/Actions/blob/output/github-contribution-grid-snake.svg)
+<!-- ## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/Anshumanformal/Actions/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=NodeJS-and-JavaScript&theme=radical)](https://github.com/Anshumanformal/NodeJS-and-JavaScript)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshumanformal&repo=CPP&theme=radical)](https://github.com/Anshumanformal/CPP/tree/master)
