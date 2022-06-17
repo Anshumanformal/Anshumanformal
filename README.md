@@ -7,6 +7,7 @@
  - 📫 Do my problem solving in C++, Javascript and Python.
  - 😄 Pronouns: He/Him
  - ✉️  You can shoot me an email at anshumanformal@gmail.com! I'll try to respond as soon as I can.
+ - View my <a href = "">portfolio<a>
 <!--  - ⚡ Interested in : I would like to contribute to any NGO or any organization working on environmental sustainability. -->
  - <img src="https://komarev.com/ghpvc/?username=Anshumanformal&color=green" alt="Anshuman's GitHub Visitor Count"/>
  
@@ -27,6 +28,15 @@ Here are some ideas to get you started:
 <!-- - 📫 How to reach me: ... -->
 
 [![Anshuman's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anshumanformal&theme=xcode)](https://git.io/Anshumanformal)
+
+### Work Experience :computer_mouse: :desktop_computer: :keyboard:
+
+| Position | Organization | Timeline |
+| :-: | :-: | :-: |
+| Microsoft Teams Chatbot Developer using NodeJS(current) | [Celebal Technologies Pvt. Ltd.](https://celebaltech.com/) | Sep 2021 - Current |
+| Backend Developer Intern(NodeJS) | [ClickLabs(JungleWorks)](https://click-labs.com/) | July 2021 - Aug 2021 |
+| Backend Developer Intern(NodeJS) | [Apptunix](https://drive.google.com/file/d/1DMqQ_g3-a6MdUJ_Hz_R9O20SJrJYtGjK/view) | Jan 2021 - July 2021 |
+| Data Analyst | [Peacock Solar]([https://www.girlscript.tech/home](https://drive.google.com/file/d/1HoexGqdqsLjQK9V8b7LRUB1OlAUG7yBo/view)) | May 2020 - July 2020 |
 
 **Languages and Tools:**  
 
