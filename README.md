@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 
 | Position | Organization | Timeline |
 | :-: | :-: | :-: |
-| Microsoft Teams Chatbot Developer using NodeJS(current) | [Celebal Technologies Pvt. Ltd.](https://celebaltech.com/) | Sep 2021 - Current |
+<!-- | Microsoft Teams Chatbot Developer using NodeJS(current) | [Celebal Technologies Pvt. Ltd.](https://celebaltech.com/) | Sep 2021 - Current | -->
+| Software Engineer(current) | [Celebal Technologies Pvt. Ltd.](https://celebaltech.com/) | Sep 2021 - Current |
 | Backend Developer Intern(NodeJS) | [ClickLabs(JungleWorks)](https://click-labs.com/) | July 2021 - Aug 2021 |
 | Backend Developer Intern(NodeJS) | [Apptunix](https://drive.google.com/file/d/1DMqQ_g3-a6MdUJ_Hz_R9O20SJrJYtGjK/view) | Jan 2021 - July 2021 |
 | Data Analyst | [Peacock Solar](https://drive.google.com/file/d/1HoexGqdqsLjQK9V8b7LRUB1OlAUG7yBo/view) | May 2020 - July 2020 |
@@ -71,7 +72,7 @@ Here are some ideas to get you started:
 <!-- ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/Anshumanformal/Actions/blob/output/github-contribution-grid-snake.svg) -->
 <br>
- 
+<br> 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
