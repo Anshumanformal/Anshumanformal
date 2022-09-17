@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 [<img title="Mail to Anshuman" align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" />](mailto:anshumanformal@gmail.com)
 [<img title="Visit Anshuman's Portfolio" align="left" width="40px" src="https://img.icons8.com/fluency/50/000000/resume-website.png" />](https://anshuman-ranjan-portfolio.netlify.app/)
 [<img title="Gitzilla: Here, you'll get to see various Github repos" align="left" width="40px" src="https://img.icons8.com/nolan/64/git.png" />](https://gitzilla.netlify.app/users/Anshumanformal)
-[<img title="LinkTree profile" align="left" width="40px" src="https://img.icons8.com/color/50/000000/linktree.png" />](https://znap.link/anshuman_ranjan)
+[<img title="Znaplink profile" align="left" width="40px" src="https://img.icons8.com/color/50/000000/linktree.png" />](https://znap.link/anshuman_ranjan)
 [<img title="AboutMe profile" align="left" width="40px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-software-developer-digital-nomading-relocation-flaticons-flat-flat-icons.png" />](https://about.me/anshumanranjan)
 
 <!-- ## Watch my contributions get eaten by a snake 🐍
