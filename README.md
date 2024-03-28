@@ -4,7 +4,7 @@
 
 <!--  - 🔭 I am currently working on MERN stack. -->
  - 🌱 I am passionate about creating software solutions to real-life scenarios.
- - 📫 Do my problem solving in C++, Javascript and Python.
+ - 📫 Do my problem solving in C++, Javascript, NodeJS and Python.
  - 😄 Pronouns: He/Him
  - ✉️  You can shoot me an email at anshumanformal@gmail.com! I'll try to respond as soon as I can.
  - View my <a href = "https://anshuman-ranjan-portfolio.netlify.app/">portfolio<a>
