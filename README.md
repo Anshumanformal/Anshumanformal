@@ -4,8 +4,8 @@
 
 <!--  - 🔭 I am currently working on MERN stack. -->
  - 🌱 I am passionate about creating software solutions to real-life scenarios.
- - 📫 Do my problem solving in Java and Javascript.
- - 🚀 Have worked on Springboot, NodeJS, ExpressJS, NestJS, NextJS, MongoDB, MySQL, PostgreSQL and few of the AWS services. 
+ - 📫 Do my problem solving in Java, Python and Javascript.
+ - 🚀 Have worked on Springboot, NodeJS, ExpressJS, NestJS, NextJS, MongoDB, MySQL, PostgreSQL, Redis, SocketIO, RabbitMQ, Apache Kafka, AWS and Azure services. 
  - 😄 Pronouns: He/Him
  - ✉️  You can shoot me an email at anshumanformal@gmail.com! I'll try to respond as soon as I can.
  - View my <a href = "https://anshuman-ranjan-portfolio.netlify.app/">portfolio<a>
